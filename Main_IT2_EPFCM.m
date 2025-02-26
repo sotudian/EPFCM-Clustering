@@ -94,4 +94,3 @@ for c = 2:nC
     hold on 
     plot (U2(c, :), cColor(c))
 end
-
